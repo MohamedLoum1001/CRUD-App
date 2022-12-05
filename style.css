@@ -27,6 +27,11 @@ body{
    
 }
 
+thead{
+    border: 2px solid black;
+
+}
+
 #form{
     margin: 2% 30%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
